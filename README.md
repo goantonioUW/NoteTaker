@@ -33,9 +33,10 @@ Step 3. Open the project files with the text editor of your choice.
   If you would like to become a contribute contact me and I will add you here.
 
   ## Example
-  This is a video of the finished application
-  https://note-taker-one.herokuapp.com/notes This is a link to the working app.
-  ![screenshot of the app](./images/Screenshot.png)
+This is a link to the working app 
+https://note-taker-one.herokuapp.com/notes .
+  
+ ![screenshot of the app](./images/Screenshot.png)
 
   ## Questions
   Please reach out to me at:
