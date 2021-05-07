@@ -35,6 +35,7 @@ Step 3. Open the project files with the text editor of your choice.
   ## Example
   This is a video of the finished application
   https://note-taker-one.herokuapp.com/notes This is a link to the working app.
+  ![screenshot of the app](./images/screenshot.png)
 
   ## Questions
   Please reach out to me at:
